@@ -1,0 +1,3 @@
+pydes
+argparse
+cryptography
